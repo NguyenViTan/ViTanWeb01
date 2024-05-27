@@ -1,6 +1,6 @@
 
 @extends('layouts.site')
-@section('title', 'Trang chủ')
+@section('title', 'Chi tiết sản phẩm')
 @section('header')
 @endsection
 @section('content')
